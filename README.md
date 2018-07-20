@@ -12,3 +12,6 @@ The scratchgenrsa.py is where most of the fun is at. No input is required, simpl
 There are some other scripts in here that allow you to check for primes, semiprimes, and do some encrypt/decrypt using a well known library, pycryptodome.
 
 Please note that the scratchgenrsa.py will let you generate a key length of ANY size. This can be fun for testing, but please always use a minimum key size of 2048 for anything outside of testing.
+
+## Credit
+Credit goes to https://inventwithpython.com/ and the developers of pycryptodome for providing the source code and documentation online.
